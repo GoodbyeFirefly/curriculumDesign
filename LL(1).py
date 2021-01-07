@@ -1,3 +1,7 @@
+# 对应博客讲解链接
+# https://blog.csdn.net/qq_41528502/article/details/103957028
+
+
 # -*- coding: utf-8 -*-
  
 # Form implementation generated from reading ui file 'D:\testPyQt5\PyQt5_code\test2.ui'
